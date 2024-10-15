@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Issues: External Education and Leadership"
+title: "Issue 5: External Education and Leadership"
 pdate: "14 Oct, 2024"
 ---
 

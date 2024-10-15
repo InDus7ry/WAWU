@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Issues: Organizing"
+title: "Issue 1: Organizing"
 pdate: "14 Oct, 2024"
 ---
 

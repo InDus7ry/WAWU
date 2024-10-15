@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-### For our OSEs:
-> "The company can do what they want with their recognition. We already have our union." -Alma Gomez García
 
 # Gabe's Vision for WAWU-UAW Local 4929:
+For our OSEs:
+> "The company can do what they want with their recognition. We already have our union." -Alma Gomez García
 
 ## [Baseline Organizing](/2024/10/14/organizing.html)
 At the core of our union, our key priority should ALWAYS be the maintenance of highly organized workplaces for a highly organized unit. That means, at a strategic level, putting organizing--building community with our coworkers--first.

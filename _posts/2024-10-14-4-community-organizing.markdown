@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Issues: Community Organizing"
+title: "Issue 4: Community Organizing"
 pdate: "Oct 14, 2024"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Issues: Undergraduate Focus"
+title: "Issue 3: Undergraduate Focus"
 pdate: "14 Oct, 2024"
 ---
 

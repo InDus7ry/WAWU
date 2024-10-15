@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Issues: Education and Mentorship"
+title: "Issue 2: Education and Mentorship"
 pdate: "14 Oct, 2024"
 ---
 
