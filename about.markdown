@@ -12,4 +12,4 @@ I’m running for Local Union President because my union friends think I should.
 
 In terms of the mechanics of the role, the kind of work I was doing in my last ESE job is very similar. I served as Senate President and Senator (a Peer Advisor in Student Government) over the past two years, trying to get student voices heard and doing lots of what some, but not me, might call–boring–administrative, strategic, and organizational work.
 
-The dolls will run this union :3
+No matter who wins, the ✨dolls✨ will run this union, and that's what really matters :3
